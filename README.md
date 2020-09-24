@@ -1,4 +1,4 @@
-# multi-page-builder
+# multi-page-builder v1.0.0
 Frontend builder for a multi-page project. Gulp, ESLint, Prettier. Node 12.16.0
 
 # using
